@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Tol Ma Enta Ganby Mabsout |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 05, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tol-ma-enta-ganby-mabsout/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
