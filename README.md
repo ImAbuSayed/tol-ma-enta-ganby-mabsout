@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي نور دربي هنا
+> في عيونك أسرار المنى
+> روحي معاك في كل مكان
+> (حبيبي) يجمعنا نفس الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
