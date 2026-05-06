@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tol-ma-enta-ganby-mabsout/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Tol Ma Enta Ganby Mabsout](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Tol Ma Enta Ganby Mabsout](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
