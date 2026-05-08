@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tol Ma Enta Ganby Mabsout
+
+This log tracks the cryptographic history and versioning for the song **Tol Ma Enta Ganby Mabsout** (tol-ma-enta-ganby-mabsout).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:32:34.504860 | `v1` | `39a78b705b684310df21b1e9051afad28d909d64d46b50037e9544354c1f35ea` | `02a1e8747f7b204f57434bbf1e6bbefc85196f2a20a70baebe8054a1632613e6` | `2026-05-08_tol-ma-enta-ganby-mabsout-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
